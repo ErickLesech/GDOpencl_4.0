@@ -1,0 +1,9 @@
+[configuration]
+
+entry_symbol = "example_library_init"
+
+[libraries]
+
+linux.64 = "bin/x11/libproject.so"
+windows.64.debug = "bin/win64/libproject.dll"
+windows.64.release = "bin/win64/libproject.dll"

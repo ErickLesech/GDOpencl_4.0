@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" uid="uid://dn84lwl23b2vb" path="res://vs_opencl.vs" id="1_u7vx8"]
+
+[node name="Node_cl" type="Node3D"]
+script = ExtResource( "1_u7vx8" )
+new_variable = null

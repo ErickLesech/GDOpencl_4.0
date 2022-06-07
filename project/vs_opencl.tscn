@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dhxxgnsehkfpf"]
+
+[ext_resource type="Script" uid="uid://b1pj4akex7max" path="res://vs_opencl.vs" id="1_u7vx8"]
+
+[node name="Node_cl" type="Node3D"]
+script = ExtResource( "1_u7vx8" )
